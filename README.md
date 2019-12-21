@@ -51,13 +51,13 @@ The team first set up a baseline bias model, and tried to implement various othe
 4. Write-up/report could also be found [here](https://github.com/nding17/YelpRecommendation/blob/master/IEOR4571_Final_Project_Report.pdf).
 
 ## Featured Notebooks
-* [Data Sampling](https://github.com/nding17/YelpRecommendation/blob/master/Data%20Sampling.ipynb)
-* [Baseline Models](https://github.com/nding17/YelpRecommendation/blob/master/Baseline.ipynb)
-* [Side Info](https://github.com/nding17/YelpRecommendation/blob/master/Side%20Info.ipynb)
-* [Multiple Correspondence Analysis ](https://github.com/nding17/YelpRecommendation/blob/master/Multiple%20Correspondence%20Analysis.ipynb)
-* [Collective Matrix Factorization](https://github.com/nding17/YelpRecommendation/blob/master/Collective%20Matrix%20Factorization%20Model.ipynb)
-* [Content Based Models](https://github.com/nding17/YelpRecommendation/blob/master/Content%20Based%20Models.ipynb)
-* [Deep Learning Model](https://github.com/nding17/YelpRecommendation/blob/master/Deep%20Wide%20Model.ipynb)
+* [Data Sampling](https://github.com/nding17/YelpRecommendation/blob/master/notebooks/Data%20Sampling.ipynb)
+* [Baseline Models](https://github.com/nding17/YelpRecommendation/blob/master/notebooks/Baseline.ipynb)
+* [Side Info](https://github.com/nding17/YelpRecommendation/blob/master/notebooks/Side%20Info.ipynb)
+* [Multiple Correspondence Analysis ](https://github.com/nding17/YelpRecommendation/blob/master/notebooks/Multiple%20Correspondence%20Analysis.ipynb)
+* [Collective Matrix Factorization](https://github.com/nding17/YelpRecommendation/blob/master/notebooks/Collective%20Matrix%20Factorization%20Model.ipynb)
+* [Content Based Models](https://github.com/nding17/YelpRecommendation/blob/master/notebooks/Content%20Based%20Models.ipynb)
+* [Deep Learning Model](https://github.com/nding17/YelpRecommendation/blob/master/notebooks/Deep%20Wide%20Model.ipynb)
 
 ## Contributing Members
 
